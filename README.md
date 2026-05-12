@@ -58,5 +58,5 @@ I'm an applied computing graduate student who builds practical, data‑driven so
 
 ### Contact
 📣 **Email:** [butt24@uwindsor.ca](mailto:butt24@uwindsor.ca)  
-🗝 **LinkedIn:** [amer‑aamir](https://www.linkedin.com/in/amer-aamir)  
+🗝 **LinkedIn:** [amer‑hamza-aamir](https://www.linkedin.com/in/amer-hamza-aamir)  
 🌐 **Location:** Windsor, ON, Canada
